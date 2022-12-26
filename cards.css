@@ -1,0 +1,30 @@
+.imgtop{
+    height:400px;
+    width:100%;
+}
+.bgimg{
+    background-image: url("");
+    height:150vh;
+    width:98.5vw;
+    background-size:cover;
+}
+.boxes{
+    margin-top:50px;
+    height:340px;
+    width:366px;
+    border-radius:6px;
+}
+.boxes:hover{
+    box-shadow:0 0 40px black;
+    transform:scale(1.04);
+}
+.imgdim{
+    height:270px;
+    width:360px;
+    border-radius:4px;
+}
+.headthree{
+    font-size:22px;
+    color:black;
+    text-align:center;
+}
